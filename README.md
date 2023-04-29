@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='unit10gif.gif' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with **your chosen video tool**
 
