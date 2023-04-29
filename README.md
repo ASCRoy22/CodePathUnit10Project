@@ -11,7 +11,7 @@ Time spent: **X** hours spent in total
 
 ## Summary
 
-This document provides a summary of our project building process for our app, **App Name Here**
+This document provides a summary of our project building process for our app, **DigitalFitness**
 
 ## Milestone Requirements
 
@@ -30,8 +30,8 @@ The following REQUIRED files are included:
   - [x] Checked off 2+ completed features
   - [x ] 2+ GIFs of build progress
 
-- [ ] Our 🎥 Demo Video
-  - [ ] We have also added the Demo Video Link to the Group Info Form on the course portal.
+- [ x] Our 🎥 Demo Video
+  - [ x] We have also added the Demo Video Link to the Group Info Form on the course portal.
 
 The following EXTRA features are implemented:
 
@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 Here's a video that demos all of the app's implemented features:
 
-<img src='unit10gif.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://youtu.be/Tk4I1sjV9ZY' title='Video Demo' width='' alt='Video Demo' />
 
 VIDEO created with **your chosen video tool**
 
